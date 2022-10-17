@@ -1,4 +1,4 @@
-name: deploy-to-container
+name: deploy-to-aws-container
 
 on:
   push:
